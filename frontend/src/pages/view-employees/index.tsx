@@ -127,7 +127,7 @@ import { formatDate } from "@/utils/dateFormatter/dateFormater";
             />
           </Stack>
           <Box overflowX="auto">
-            <Table variant="simple">
+            <Table variant="striped">
               <TableCaption>Lista de Funcionários</TableCaption>
               <Thead>
                 <Tr>
