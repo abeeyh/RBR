@@ -11,6 +11,7 @@ Este projeto é composto por dois componentes principais: um backend e um fronte
 
 - Node.js
 - npm
+- mongoDB (Nome do Banco: employeeDB)
 
 ### Instalação de Dependências
 
